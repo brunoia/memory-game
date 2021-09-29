@@ -23,9 +23,9 @@ export default function MemoryGame() {
     function handleFlip(card) {
 
         game.flipCard(card.id, () => {
-            setGameOver(true); //gameover callback
+            setGameOver(true); 
         }, () => {
-            setCards([...game.cards]); //no match callback
+            setCards([...game.cards]);
         })
 
         setCards([...game.cards]);

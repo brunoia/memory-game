@@ -10,5 +10,3 @@ export default function GameOver(props) {
         <Fragment />
     );
 }
-
-//if ternário: se for verdadeiro (?) retorna a div completa (gameover) se for falso (:) retorna a div vazia (fragment)
