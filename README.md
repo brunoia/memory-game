@@ -1,4 +1,4 @@
-# memory-game
+# Web Developer Memory Game
 
 Memory game made in React and published on GitHub Pages to learn how to deploy a react app.
 
